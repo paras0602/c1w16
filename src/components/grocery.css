@@ -13,11 +13,9 @@ button{
     margin-bottom: 5px;
     width: 70%;
 }
-.price{
-    display: flex;
-    /* justify-content: space-around; */
 
-}
+
+
 strike{
     padding-right:50px;
     padding-left: 30px;
